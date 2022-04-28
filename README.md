@@ -4,7 +4,7 @@
 
 > a simple website to guess the ai generator image
 
-### 🏠 [Homepage](homepagePlaceholder)
+### 🏠 [Homepage](https://github.com/teobot/AiGuesser)
 
 ### ✨ [Demo](demoPlaceholder)
 
